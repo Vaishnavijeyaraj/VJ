@@ -1,7 +1,5 @@
 # Vaishnavi Jeyaraj
 
-![Vaishnavi Jeyaraj](JP.png)
-
 ## Contact Information
 
 - **Email:** [vaishnavij913@gmail.com](mailto:vaishnavij913@gmail.com)
